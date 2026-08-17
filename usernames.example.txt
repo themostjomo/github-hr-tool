@@ -1,0 +1,7 @@
+# One GitHub username per line. No "@", no commas, no quotes.
+# Lines starting with # are ignored (this line is just a comment for humans -
+# note the script itself only skips truly blank lines, so remove comment
+# lines like this before running, or keep this file as a template only).
+torvalds
+gvanrossum
+octocat

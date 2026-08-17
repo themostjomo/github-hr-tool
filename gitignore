@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated reports (contain profile data - don't commit by default)
+github_profile_report.csv
+github_profile_report.xlsx
+github_profile_report.txt
+
+# Your real usernames list (keep the .example.txt as the template only)
+usernames.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Secrets - never commit a token
+.env
+*.token
